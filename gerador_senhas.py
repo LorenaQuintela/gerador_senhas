@@ -5,6 +5,7 @@ lista_numeros = []
 lista_simbolos = []
 
 lista_aleatória = []
+
 qtd_letras = input("Quantas letras você quer na senha? ")
 qtd_numeros = input("Quantos números você quer na senha? ")
 qtd_simbolos = input("Quantos simbolos? ")
